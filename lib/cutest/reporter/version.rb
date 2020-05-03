@@ -1,5 +1,5 @@
 class Cutest
-  module Reporter
+  class Reporter
     VERSION = "0.1.0"
   end
 end

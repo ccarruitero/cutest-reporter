@@ -1,2 +1,5 @@
 $LOAD_PATH.unshift File.expand_path("../lib", __dir__)
 require "cutest/reporter"
+require "pry"
+
+Cutest.autorun
