@@ -7,3 +7,5 @@ class Cutest
 end
 
 Cutest.extend Cutest::Runner
+
+Cutest.autorun
